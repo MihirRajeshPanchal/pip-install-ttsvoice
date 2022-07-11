@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+ttsvoice/__init__.py
+ttsvoice.egg-info/PKG-INFO
+ttsvoice.egg-info/SOURCES.txt
+ttsvoice.egg-info/dependency_links.txt
+ttsvoice.egg-info/requires.txt
+ttsvoice.egg-info/top_level.txt
